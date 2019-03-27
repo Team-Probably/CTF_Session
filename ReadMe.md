@@ -50,4 +50,4 @@ The repository is the compilation of the challenges created by us for the introd
 ### Source of Vitamins
 
 [Challenge Link](https://sov.surge.sh)<br>
-[Challenge Write-up](./Source&#32;of&#32;Vitamins/Write-up.md)
+[Challenge Write-up](./Source&#32;Of&#32;Vitamins/Write-up.md)
