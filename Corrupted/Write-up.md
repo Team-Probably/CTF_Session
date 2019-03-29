@@ -14,7 +14,8 @@ I hid flag in this file but now even I can't open it :(
 ##### Hints to the Solution
 
 > Are you sure its a PDF?
-> Look up LSB Encoding
+
+> Also, look up LSB Encoding
 
 ##### Steps to the Solution
 * When you do a hexdump of the file, you see something odd is up with the magic numbers. It ain't a PDF. It's a GIF!
