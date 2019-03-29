@@ -8,7 +8,7 @@
 
 Given these links with no context, can you find the flag?
 
-**Points**: 300
+**Points**: 200
 
 ------------------------------------------------
 ##### Hints to the Solution
