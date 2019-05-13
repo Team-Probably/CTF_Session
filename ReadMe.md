@@ -2,6 +2,8 @@
 
 The repository is the compilation of the challenges created by us for the introductory hands-on workshop about CTFs
 
+The CTF can be played [here](http://teamprobably.cf)
+
 ### AES Baby
 
 [Challenge Link](http://teamprobably.cf/files/f24f45074438c6594339960e2612450b/Chal.zip)<br>
